@@ -1,0 +1,7 @@
+QA output created by 057
+create file set
+FSSync '/xfstest2'
+Create a snapshot of '/xfstest2' in '/xfstest2/snap1'
+create file set on snapshot
+Transaction commit: none (default)
+Delete subvolume '/xfstest2/snap1'
